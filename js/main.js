@@ -11,7 +11,7 @@ $(document).ready(function () {
     $("nav").removeClass("nav-toggle");
   });
 
-  //   change background video when dot is clicked ...................................
+  //   change background video when dot clicked ...................................
 
   $(".dot1").click(function () {
     $(".vid1").css("display", "block");
